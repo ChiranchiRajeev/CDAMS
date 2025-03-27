@@ -1,7 +1,4 @@
 streamlit
 pandas
-sqlite3
 qrcode
 Pillow
-io
-datetime
